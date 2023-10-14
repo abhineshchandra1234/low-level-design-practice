@@ -1,6 +1,4 @@
-package com.abhinesh.rental.model.account;
-
-import java.time.LocalDateTime;
+package model.account;
 
 @Getter
 @Setter

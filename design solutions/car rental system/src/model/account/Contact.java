@@ -1,5 +1,4 @@
-package design solutions.car_rental_system.src.main.java.com.abhinesh.rental.model.account;
-
+package model.account;
 
 @Getter
 @Setter
